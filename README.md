@@ -124,7 +124,7 @@ FRONTEND_URL=http://localhost:5173
 
 VITE_API_URL=http://localhost:5000
 
-🖼️ Folder Structure
+Folder Structure
 expense-tracker/
  ├── backend/
  │   ├── config/
